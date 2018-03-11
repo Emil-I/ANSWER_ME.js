@@ -1,0 +1,555 @@
+@media (max-width: 1370px) {
+  .excursion-record-sectio-registration form {
+    padding: 65px 50px;
+  }
+  .excursion-record-sectio-registration {
+    width: 1052px;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 1317px) {
+  .wrapper-main {
+    width: 90%;
+  }
+  .info-block {
+    margin-bottom: 10px;
+  }
+  .info-blocks-box_paddTop {
+    padding-top: 30px;
+  }
+  /*================*/
+  .content-events-calendar {
+    width: 235px;
+  }
+  .events-section .tabs__content {
+    padding-left: 240px;
+  }
+  .events-section .tabs__content .fs-14 {
+    font-size: 0.7em;
+  }
+  /*=====================*/
+  .dropdown-box {
+    width: 32%;
+  }
+  .content-events-block__image-block {
+    text-align: center;
+  }
+  .content-events-block__image-block img {
+    display: inline-block;
+  }
+  .wrapper-sl {
+    width: 81%;
+  }
+  .info-block {
+    width: 265px;
+  }
+}
+
+@media (max-width: 1086px) {
+  .footer-copyright {
+    max-width: 220px;
+  }
+}
+
+@media (max-width: 1170px) {
+  .excursion-record-sectio-registration {
+    width: 100%;
+    padding: 0;
+  }
+  .franchise-video-section-wrapper {
+    width: 97%;
+  }
+  .franchise-video-section-wrapper .video-sl-box {
+    margin: 0;
+  }
+  .excursion-text-info-box {
+    padding-left: 15px;
+  }
+  .header-box.header-box_select-box {
+    max-width: 167px;
+  }
+}
+
+@media (max-width: 1023px) {
+  .header .header-box_social-box {
+    display: none;
+  }
+  .what-you-getting-section {
+    background-image: none;
+    background-color: #fef2f2;
+  }
+  .info-blocks-box {
+    flex-direction: column;
+    align-items: center;
+  }
+  .tabs-list-one {
+    flex-direction: column;
+    max-width: 63%;
+  }
+  .tabs-list-one__item {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  .content-events-calendar {
+    position: static;
+    margin: 0 auto;
+  }
+  .events-section .tabs__content {
+    padding: 0;
+    margin-top: 20px;
+  }
+  .content-events-blocks {
+    margin: 0 auto;
+  }
+  .content-events-calendar {
+    width: 270px;
+  }
+  .getting-section-tabs .tabs__content {
+    flex-wrap: wrap;
+  }
+  .dropdown-box {
+    width: 48%;
+  }
+  .women-wrapp {
+    display: none;
+  }
+  .what-you-getting-section {
+    padding-bottom: 30px;
+  }
+  .excursion-record-section-side {
+    display: none;
+  }
+  .excursion-record-section-form-box {
+    width: 100%;
+  }
+  .excursion-record-section-form-box {
+    margin: 0;
+  }
+  .avatar-text-block {
+    display: none;
+  }
+  .header-box_avatar-box {
+    width: auto;
+  }
+  .footer__wrapper {
+    flex-direction: column;
+  }
+  .footer .lang-list {
+    justify-content: center;
+  }
+  .footer .header-box__link_ib {
+    width: 100%;
+    text-align: center;
+  }
+  .footer .header-box_phone-lang {
+    display: block;
+    margin-top: 15px;
+  }
+  .footer .number-phone {
+    display: block;
+  }
+  .footer .footer-copyright {
+    margin-bottom: 15px;
+  }
+  .footer-copyright div {
+    text-align: center;
+  }
+  .footer-logo-link {
+    display: none;
+  }
+}
+
+@media (max-width: 980px) {
+  .reviews-section {
+    display: none;
+  }
+  .number-phone {
+    display: none;
+  }
+  .navigation-section, .header-box_phone-lang {
+    display: none;
+  }
+  .header {
+    max-width: 420px;
+    margin: 0 auto;
+  }
+  .content-events-blocks {
+    width: 100%;
+  }
+  .info-section-why-sl-block-sl__img-block {
+    display: none;
+  }
+  .faq-wrapper-box__side {
+    width: 100%;
+  }
+  .footer-copyright {
+    margin: 0 auto;
+  }
+  .excursion-detail-section__detail-box {
+    flex-direction: column;
+  }
+  .excursion-photo-example-box {
+    margin: 0 auto;
+    margin-bottom: 25px;
+  }
+  .excursion-text-info-box {
+    padding: 0;
+  }
+  .excursion-record-sectio-registration {
+    width: 100%;
+    padding: 0;
+  }
+  .excursion-record-sectio-registration form {
+    padding: 30px;
+  }
+  .about-excursion-detail-section__wrapper {
+    flex-direction: column;
+  }
+  .about-excursion-detail-section-box {
+    margin-bottom: 20px;
+  }
+  .buy-block {
+    flex-direction: column;
+    align-items: center;
+  }
+  .buy-block button {
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+  .tabs-list-one_jus-start .tabs-list-one__item {
+    margin-right: 0;
+  }
+  .big-img-sl-for {
+    height: auto;
+  }
+  .icon-fig {
+    display: none;
+  }
+  .new-service-section-container__bottom-block, .franchise-detail {
+    flex-direction: column;
+  }
+  .new-service-section-container__sentence-block {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .franchise-detail-text {
+    padding-left: 0;
+  }
+  .franchise-detail-img {
+    margin: 0 auto;
+    margin-bottom: 40px;
+  }
+  .library-list-block {
+    width: 48.7%;
+  }
+  .library-list-block:nth-child(3n) {
+    margin-right: 2.33%;
+  }
+  .library-list-block:nth-child(2n) {
+    margin-right: 0;
+  }
+  .franchise-info-section__br-point-bgr {
+    padding-top: 10px;
+  }
+  .franchise-info-section, .franchise-video-section {
+    padding: 30px 0;
+  }
+  .block-message-popu-confidentiality {
+    width: 93%;
+  }
+}
+
+@media (max-width: 900px) {
+  .dropdown-box {
+    width: 100%;
+  }
+}
+
+@media (max-width: 750px) {
+  .block-message-popu-confidentiality {
+    padding-top: 65px;
+  }
+  .btn-go-to-top .btn-go-to-top__text {
+    display: none;
+  }
+  .btn-go-to-top {
+    width: 50px;
+    height: 50px;
+    bottom: 30px;
+    right: 30px;
+  }
+  .header-box_avatar-box img {
+    width: 100%;
+  }
+  .header-box_avatar-box {
+    margin-right: 10px;
+  }
+  .fs-72 {
+    font-size: 31px;
+  }
+  .fs-24 {
+    font-size: 1em;
+  }
+  .section-title-box {
+    width: 100%;
+  }
+  .fs-16 {
+    font-size: 0.8em;
+  }
+  .fs-48 {
+    font-size: 1.3em;
+  }
+  .info-block {
+    width: 86%;
+  }
+  .tabs-list-one {
+    max-width: 100%;
+  }
+  .video-sl {
+    width: 100%;
+  }
+  .events-section .slick-arrow.slick-next {
+    right: 33%;
+    left: auto;
+  }
+  .events-section .slick-arrow.slick-prev {
+    left: 33%;
+  }
+  .getting-section-tabs .tabs__caption {
+    width: 100%;
+    flex-direction: column;
+  }
+  .getting-section-tabs .tabs__caption li {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  .info-section-why-sl-box, .slider-wrapper {
+    width: 100%;
+  }
+  .info-section-why-sl-box .slick-arrow {
+    top: 105%;
+  }
+  .slider-wrapper_pos-btn .slick-arrow.slick-next {
+    right: 23%;
+  }
+  .slider-wrapper_pos-btn .slick-arrow.slick-prev {
+    left: 23%;
+  }
+  .info-section-why {
+    padding-bottom: 90px;
+  }
+  .excursion-record-section {
+    padding: 0;
+  }
+  .excursion-record-section-form-wrapper {
+    width: 92%;
+  }
+  .form-to-the-team {
+    padding: 10px;
+  }
+  .group-inp-box {
+    flex-direction: column;
+  }
+  .form-to-the-team__inp-wrapper {
+    width: 100%;
+  }
+  .footer-form {
+    flex-direction: column;
+  }
+  .info-section-one-present__icon {
+    width: 25px;
+  }
+  .video-sl .slick-arrow {
+    top: 105%;
+  }
+  .video-info-section {
+    padding-bottom: 90px;
+  }
+  .team-sl .slick-arrow {
+    top: 103%;
+  }
+  .team-sl {
+    margin-bottom: 75px;
+  }
+  .payment-method-block {
+    flex-direction: column;
+  }
+  .excursion-photo-example-box {
+    width: 100%;
+  }
+  .excursion-photo-example-box__img-block {
+    height: 320px;
+  }
+  .conductor-section-content {
+    flex-direction: column;
+  }
+  .conductor-section-info-box {
+    padding-left: 0;
+  }
+  .new-service-section-container__top-block {
+    flex-direction: column;
+  }
+  .new-service-section-container {
+    padding: 10px;
+  }
+  .new-service-section-container__side {
+    width: 100%;
+  }
+  .new-service-section-container__side_padd-left {
+    padding-left: 0;
+  }
+  .fs-32 {
+    font-size: 23px;
+  }
+  .payment-method-block img {
+    margin-bottom: 30px;
+  }
+  .payment-method-block img:last-child {
+    margin-bottom: 0;
+  }
+  thead {
+    display: none;
+  }
+  .excursion-record-sectio-registration__table tbody tr {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  td[before-content] {
+    position: relative;
+    padding-left: 117px;
+  }
+  td[before-content]:before {
+    content: attr(before-content);
+    position: absolute;
+    left: 10px;
+  }
+  .excursion-record-sectio-registration__table tbody td, .excursion-record-sectio-registration__table tfoot td {
+    border: none;
+  }
+  .excursion-record-sectio-registration__table tbody tr {
+    border: 1px solid #6d758a;
+  }
+  .excursion-record-sectio-registration__table .wrapper-count {
+    margin: 0;
+  }
+  .excursion-record-sectio-registration__title-block {
+    display: flex;
+    flex-direction: column;
+  }
+  .excursion-record-sectio-registration__title-block .title-two {
+    margin: 0;
+  }
+  .how-it-was-section {
+    padding: 0;
+  }
+  .breadcrumbs-list, .additionally-wrapper {
+    flex-direction: column;
+  }
+  .franchise-detail-img {
+    width: 95%;
+  }
+  .franchise-detail-text .go-to-payment-link {
+    width: 90%;
+    text-align: center;
+  }
+  .franchise-video-section-wrapper .video-sl-box {
+    height: 290px;
+  }
+  .tags-box {
+    flex-direction: column;
+    margin-bottom: 40px;
+  }
+  .tags-box span {
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+  .tags-box ul {
+    flex-wrap: wrap;
+  }
+  .tags-box ul li {
+    margin-bottom: 10px;
+  }
+  .modal .icon-close {
+    right: 22px;
+    top: 13px;
+  }
+  .child-data-box-form {
+    width: 95%;
+  }
+  .call-me-box-form {
+    padding: 20px;
+  }
+  .child-data-box-form {
+    padding: 10px;
+  }
+  .child-data-box__title {
+    margin-bottom: 20px;
+  }
+  .child-data-box-form {
+    padding-top: 35px;
+  }
+  .modal .icon-close {
+    background-image: url(../img/close-i-black.png);
+  }
+  .test-section .title-section-info-detail {
+    width: 100%;
+  }
+}
+
+@media (max-width: 670px) {
+  .team-person-box {
+    max-width: auto;
+    width: 227px;
+  }
+}
+
+@media (max-width: 600px) {
+  .library-list-block {
+    width: 100%;
+    margin-right: 0;
+  }
+  .pagination {
+    flex-direction: column;
+  }
+  .pagination__list {
+    justify-content: center;
+  }
+  .pagination__list:first-child {
+    padding-bottom: 15px;
+  }
+  .pagination__list:last-child {
+    padding-top: 15px;
+  }
+  .thanks-box__title p {
+    padding: 0;
+  }
+  .article-section img {
+    max-width: 100%;
+    width: 100%;
+    margin-right: 0;
+  }
+  .excursion-record-section-form-box {
+    min-width: 100%;
+  }
+}
+
+@media (max-width: 450px) {
+  .article-section img {
+    width: 100%;
+    margin-right: 0;
+  }
+  .modal .icon-close {
+    right: 10px;
+    top: 7px;
+    width: 23px;
+    height: 22px;
+  }
+  .events-section {
+    padding-bottom: 0;
+  }
+  .events-section .box-tabs_marg-b {
+    margin-bottom: 0;
+  }
+}
